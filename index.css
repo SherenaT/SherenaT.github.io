@@ -16,6 +16,13 @@ header h2 {
   margin-top: 0;
   margin-bottom: 30px;
 }
+h2 {
+  font-size: 50px;
+  font-family: "Alumni Sans", sans-serif, "Kaisei Tokumin", serif;
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 15px;
+}
 .iconDiv h3 {
   font-family: "Alumni Sans", sans-serif, "Kaisei Tokumin", serif;
   font-size: 30px;
@@ -86,7 +93,7 @@ footer {
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  margin: 100px 0px;
+  margin-bottom: 100px;
 }
 /* .projectRow {
   flex: 4;
@@ -96,7 +103,6 @@ footer {
   margin: 0;
   padding: 0;
   height: 400px;
-  opacity: 40%;
 }
 
 #ecommerce {
@@ -104,7 +110,6 @@ footer {
   height: 393px;
 }
 .projectText {
-  opacity: 100%;
   text-align: center;
   font-family: "Alumni Sans", sans-serif, "Kaisei Tokumin", serif;
   margin-top: 20px;
