@@ -1,0 +1,112 @@
+header {
+  font-family: "Alumni Sans", sans-serif, "Kaisei Tokumin", serif;
+  border-bottom: 4px solid black;
+  height: 300px;
+  width: auto;
+}
+header h1 {
+  font-weight: 900;
+  font-size: 100px;
+  margin-bottom: 0;
+  margin-top: 75px;
+}
+header h2 {
+  font-weight: 600;
+  font-size: 30px;
+  margin-top: 0;
+  margin-bottom: 30px;
+}
+.iconDiv h3 {
+  font-family: "Alumni Sans", sans-serif, "Kaisei Tokumin", serif;
+  font-size: 30px;
+  font-weight: 900;
+  text-align: center;
+  padding-right: 140px;
+  margin-bottom: 15px;
+}
+.projectText h3 {
+  font-size: 30px;
+}
+p {
+  font-family: "Alumni Sans", sans-serif, "Kaisei Tokumin", serif;
+  font-size: 20px;
+  font-weight: 900;
+}
+
+.headerDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.aboutMeDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.aboutMeRow {
+  flex: 2;
+}
+.eiffelTowerPic {
+  width: 50%;
+  height: auto;
+  background-color: rgb(82, 82, 82);
+  padding: 100px;
+}
+
+.aboutMe {
+  margin-right: 100px;
+}
+
+footer {
+  border-top: 4px solid black;
+  height: 200px;
+  width: auto;
+}
+.iconDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  background-color: rgb(82, 82, 82);
+  padding: 40px 10px;
+}
+.iconDiv {
+  flex: 2;
+  margin: 30px 20px;
+}
+.iconDiv img {
+  width: 50%;
+  height: auto;
+}
+.projectDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 100px 0px;
+}
+/* .projectRow {
+  flex: 4;
+} */
+.projectRow img {
+  width: 100;
+  margin: 0;
+  padding: 0;
+  height: 400px;
+  opacity: 40%;
+}
+
+#ecommerce {
+  border: 3px solid black;
+  height: 393px;
+}
+.projectText {
+  opacity: 100%;
+  text-align: center;
+  font-family: "Alumni Sans", sans-serif, "Kaisei Tokumin", serif;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
