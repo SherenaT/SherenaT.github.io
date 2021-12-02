@@ -40,7 +40,7 @@ p {
   font-weight: 900;
 }
 .aboutMe1 {
-  margin: 10px 30px;
+  padding: 10px 30px;
 }
 .headerDiv {
   display: flex;
