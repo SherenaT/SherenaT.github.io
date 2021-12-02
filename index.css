@@ -39,13 +39,14 @@ p {
   font-size: 25px;
   font-weight: 900;
 }
-
+.aboutMe1 {
+  margin: 10px 30px;
+}
 .headerDiv {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin: 10px 20px;
 }
 .aboutMeDiv {
   display: flex;
