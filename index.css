@@ -1,6 +1,7 @@
 header {
   border-bottom: 4px solid black;
   font-style: bold;
+  margin: 0px;
 }
 body {
   font-family: "Alumni Sans", sans-serif, "Kaisei Tokumin", serif;
@@ -150,8 +151,7 @@ a {
 }
 
 a:visited {
-  color: pink;
-  text-decoration: underline overline wavy blue;
+  text-decoration: underline;
 }
 
 a:hover {
